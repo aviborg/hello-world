@@ -1,1 +1,3 @@
-/etc/openhab2/items/helloWorld.items
+Number dummyHelloWorld1 "Hello World1 [%d]" ["dummyItems"]
+Number dummyHelloWorld3 "Hello World3 [%d]" ["dummyItems"]
+Number dummyHelloWorld2 "Hello World2 [%d]" ["dummyItems"]
