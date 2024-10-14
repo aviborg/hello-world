@@ -5,4 +5,4 @@ The code uses two additional libraries: jsmn and curl, see the wiki on how to in
 
 It is only tested on a raspberry pi 3 with openhabianpi installed. If openhab is installed on some other host you need to change the url from localhost to whatever hostname you have.
 
-When exerimenting it is a good idea to install the REST Documentation (found under addins MISC in the paper ui), then you can test things out int the REST API panel.
+When experimenting it is a good idea to install the REST Documentation (found under addins MISC in the paper ui), then you can test things out int the REST API panel.
